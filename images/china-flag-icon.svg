@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.636" height="20.2" viewBox="0 0 34.636 20.2">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_489" data-name="Rectangle 489" width="34.636" height="20.201" transform="translate(490.042 3163.606)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="CHINA" transform="translate(-490.042 -3163.606)">
+    <g id="Group_12169" data-name="Group 12169">
+      <g id="Group_12168" data-name="Group 12168">
+        <g id="Group_12167" data-name="Group 12167" clip-path="url(#clip-path)">
+          <rect id="Rectangle_488" data-name="Rectangle 488" width="34.636" height="20.201" transform="translate(490.042 3163.606)" fill="#cb1d23"/>
+          <path id="Path_23358" data-name="Path 23358" d="M493.373,3170.919l.65-2.016-1.708-1.254,2.117,0,.661-2.011.658,2.011,2.118.008-1.711,1.25.647,2.016-1.714-1.246Z" fill="#f7de29"/>
+          <path id="Path_23359" data-name="Path 23359" d="M499.279,3172.007l.717.29.5-.593-.053.77.715.29-.749.189-.055.762-.41-.649-.747.181.493-.589Z" fill="#f7de29"/>
+          <path id="Path_23360" data-name="Path 23360" d="M503.151,3168.133l-.76-.133-.364.681-.107-.762-.761-.141.692-.334-.1-.766.537.552.692-.334-.362.681Z" fill="#f7de29"/>
+          <path id="Path_23361" data-name="Path 23361" d="M501.54,3171.584l.235-.734-.622-.456h.772l.238-.734.24.734h.772l-.622.456.234.734-.624-.452Z" fill="#f7de29"/>
+          <path id="Path_23362" data-name="Path 23362" d="M499.318,3164.888l.7.326.527-.564-.092.766.7.331-.755.145-.1.766-.376-.673-.756.141.524-.564Z" fill="#f7de29"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

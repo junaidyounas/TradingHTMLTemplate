@@ -1,0 +1,885 @@
+@media (max-width: 1800px) {
+    .countdown,
+    .countdown2,
+    .header-list ul li a {
+        width: 112px;
+    }
+    .server-clock p {
+        margin-right: 8px;
+    }
+    thead tr th {
+        padding: 22px 26px 26px 22px;
+    }
+    .official-announcement-inner table thead tr th,
+    .official-announcement-inner table tbody tr td {
+        padding: 22px;
+    }
+    .personal-info-sec {
+        padding: 40px 50px;
+    }
+    .change-profile .image-holder img {
+        height: 150px;
+    }
+    .e-wallet-summery-inner table tbody tr td {
+        padding: 22px;
+        font-size: 18px;
+    }
+    .e-wallet-summery-sec .title-second h3 {
+        padding: 14px 22px;
+    }
+    .e-wallet-summery-sec .title-second h3 {
+        font-size: 22px;
+    }
+    .official-announcement-inner table thead tr th {
+        font-size: 19px;
+    }
+    .title h2 span {
+        font-size: 18px;
+    }
+    .title h2 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .dashboard-sec {
+        padding: 20px 20px 50px;
+    }
+    .sidebar {
+        max-width: 250px;
+    }
+    .sidebar-header {
+        padding: 0 0 20px 0;
+    }
+    .sidebar-user {
+        padding: 0 30px;
+    }
+    .sidebar-nav {
+        padding: 30px 30px 0 30px;
+    }
+    .dashboard-right {
+        width: calc(100% - 250px);
+        padding-left: 15px;
+    }
+    .header {
+        padding-bottom: 30px;
+    }
+    .header-social ul li {
+        margin-left: 15px;
+    }
+    .header-list {
+        margin-right: 20px;
+    }
+    .header-list ul li a {
+        height: 34px;
+        width: 110px;
+    }
+    .server-clock p {
+        font-size: 16px;
+        margin-right: 15px;
+    }
+    .server-clock {
+        margin-right: 30px;
+    }
+    .dashboard-income-box h4 {
+        font-size: 16px;
+        margin: 0 0 10px 0;
+    }
+    .dashboard-income-box strong {
+        font-size: 16px;
+    }
+    .dashboard-income ul li {
+        padding: 10px 25px;
+    }
+    .dashboard-income {
+        padding: 25px 25px;
+    }
+    .dashboard-news P {
+        font-size: 16px;
+    }
+    .dashboard-category-box {
+        padding: 20px 20px 30px;
+        margin: 15px 0;
+    }
+    .dashboard-category-box .media h4 {
+        line-height: 28px;
+        font-size: 15px;
+    }
+    .dashboard-category-box a {
+        font-size: 20px;
+    }
+    .dashboard-category-box .media {
+        margin-bottom: 40px;
+    }
+    .dashboard-currency {
+        padding: 30px 25px;
+    }
+    .news-description {
+        margin-top: 30px;
+        padding: 30px;
+    }
+    .news-description .text-box p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .news-description .text-box h3 {
+        font-size: 24px;
+        margin: 0 0 20px 0;
+    }
+    footer {
+        padding: 100px 0;
+    }
+    .call-action-customer {
+        margin: 70px auto 0;
+    }
+    .footer-bottom {
+        margin: 50px auto 0;
+    }
+    .team-commission-income table tbody tr td {
+        font-size: 18px;
+    }
+    .dashboard-team-left h4 {
+        font-size: 32px;
+    }
+    .dashboard-currency {
+        padding: 20px;
+    }
+    .dashboard-currency h4 {
+        font-size: 22px;
+        padding: 14px 30px;
+    }
+    .currency-detail ul {
+        padding: 22px;
+        margin: 0 -8px;
+    }
+
+    .currency-detail ul li {
+        padding: 0 8px;
+        font-size: 18px;
+    }
+    .news-description .text-box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .title h2 {
+        font-size: 20px;
+    }
+
+    .arbitrage-sort a,
+    .arbitrage-sort select.form-control {
+        font-size: 18px;
+        height: 47px;
+    }
+
+    .arbitrage-inner table thead tr th {
+        font-size: 16px;
+    }
+    .arbitrage-inner table tbody tr td strong,
+    .arbitrage-inner table tbody tr td span,
+    .arbitrage-inner table tbody tr td p {
+        font-size: 16px;
+    }
+    .arbitrage-inner table tbody tr td {
+        padding: 22px 5px;
+    }
+    .sort-by p,
+    .sort-by h4,
+    .official-announcement-inner table thead tr th,
+    .official-announcement-inner table tbody tr td {
+        font-size: 16px;
+    }
+    .title-second h3 {
+        font-size: 28px;
+    }
+    .personal-info-sec .row {
+        margin: 0 -15px;
+    }
+    .personal-info-sec [class*="col-"] {
+        padding: 0 15px;
+    }
+    .personal-info-detail form label {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+    label.choose-file,
+    .choose-photo span,
+    .personal-info-detail form .form-control {
+        font-size: 18px;
+    }
+    .btn-default {
+        font-size: 20px;
+        max-width: 135px;
+    }
+    .personal-info-detail form .form-group.media .forgot-btn {
+        font-size: 18px;
+    }
+    .chips-form form .form-group.media h3 {
+        font-size: 24px;
+    }
+    .ewallet-withdrawal-box .btn-default {
+        height: 56px;
+        font-size: 24px;
+    }
+    .media-sort form a img {
+        height: 24px;
+        margin-left: 10px;
+    }
+    .sort-by select.form-control {
+        height: 47px;
+        font-size: 18px;
+    }
+    .official-announcement-sec {
+        margin-top: 30px;
+    }
+    .buy-chips-inner h4 {
+        font-size: 30px;
+    }
+    .more-file {
+        font-size: 18px;
+    }
+    .input-group-append button {
+        font-size: 18px;
+    }
+    .referral-link-box .or span {
+        font-size: 22px;
+    }
+    .referral-link-box h4 {
+        font-size: 24px;
+    }
+    .S-Vest-inner h4 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .server-clock {
+        margin-right: 15px;
+    }
+    .countdown,
+    .countdown2 {
+        font-size: 18px;
+        width: 80px;
+    }
+    .header-list ul li a {
+        width: 92px;
+    }
+    .header-list ul li {
+        margin-right: 10px;
+    }
+    .header-social li img {
+        height: 24px;
+    }
+    .dashboard-income {
+        padding: 20px 10px;
+    }
+    .dashboard-ldrmaker-box .text-box h3 {
+        font-size: 22px;
+    }
+    .dashboard-ldrmaker-box .text-box h4 {
+        font-size: 16px;
+    }
+    .dashboard-ldrmaker-box .image-holder {
+        max-width: 30px;
+    }
+    .dashboard-ldrmaker-box .text-box span,
+    .dashboard-ldrmaker-box .text-box p {
+        font-size: 16px;
+    }
+    .dashboard-user-tool,
+    .dashboard-user-box {
+        padding: 30px;
+    }
+    .user-social-media ul li svg {
+        height: 53px;
+        width: 53px;
+    }
+    .dashboard-team-left h4 {
+        font-size: 24px;
+    }
+    .dashboard-team-commission .nav-pills .nav-item .nav-link {
+        font-size: 16px;
+    }
+    .team-commission-income table tbody tr td {
+        font-size: 16px;
+    }
+
+    .team-commission-income table tbody tr td span {
+        font-size: 18px;
+        height: 38px;
+        width: 70px;
+        margin-right: 5px;
+    }
+    .team-commission-income table tbody tr td a {
+        height: 38px;
+        width: 78px;
+        font-size: 18px;
+    }
+    .team-commission-performance table tbody tr td img {
+        height: 50px;
+    }
+
+    .call-action-payment ul li a img {
+        height: 50px;
+    }
+    .footer-link .text-box p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .footer-link h4 {
+        font-size: 18px;
+    }
+    .dashboard-team-left h4 {
+        font-size: 18px;
+    }
+    .sidebar-nav ul li a {
+        font-size: 16px;
+    }
+    .sidebar-nav ul li a p {
+        margin-left: 14px;
+    }
+    .sidebar-nav {
+        padding: 20px 20px 0 20px;
+    }
+    .sidebar-user {
+        padding: 0 20px;
+    }
+    .sidebar {
+        max-width: 210px;
+    }
+    .dashboard-right {
+        width: calc(100% - 210px);
+    }
+    .dashboard-category-box a {
+        font-size: 16px;
+    }
+    .dashboard-category-box .media {
+        margin-bottom: 20px;
+    }
+    .dashboard-category-box .media span {
+        max-width: 40px;
+        margin-right: 12px;
+    }
+    .dashboard-category-box {
+        padding: 15px 10px 25px;
+    }
+    .dashboard-category-box a {
+        height: 38px;
+    }
+    .buy-chips-inner h4 {
+        font-size: 24px;
+        padding: 8px 0;
+        margin: 0 0 20px 0;
+    }
+    .chips-form form label {
+        font-size: 18px;
+    }
+    .chips-form form .form-control {
+        font-size: 18px;
+    }
+    .icon {
+        font-size: 20px;
+    }
+
+    .submit-btn {
+        max-width: 120px;
+        height: 46px;
+        font-size: 18px;
+    }
+    .sidebar-user .image-holder {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        margin: 0 auto;
+    }
+
+    .sidebar-user .image-holder img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .title h2 {
+        font-size: 18px;
+        padding: 12px 15px;
+    }
+
+    .sort-by p,
+    .sort-by h4,
+    .official-announcement-inner table thead tr th,
+    .official-announcement-inner table tbody tr td {
+        font-size: 16px;
+    }
+    .view-btn {
+        height: 38px;
+        width: 86px;
+        font-size: 16px;
+    }
+    .official-announcement-inner table thead tr th,
+    .official-announcement-inner table tbody tr td {
+        padding: 15px;
+    }
+    .pagination-item {
+        width: 34px;
+        height: 34px;
+        font-size: 16px;
+    }
+    .pagination {
+        padding: 0;
+    }
+    .sort-by select.form-control {
+        height: 45px;
+        font-size: 16px;
+    }
+    .call-action-customer h4 {
+        font-size: 24px;
+    }
+
+    .personal-info-detail form label {
+        font-size: 16px;
+    }
+    .personal-info-detail form .form-control {
+        font-size: 16px;
+    }
+    .title-second h3 {
+        font-size: 22px;
+    }
+    .personal-info-sec {
+        padding: 30px;
+    }
+    label.choose-file,
+    .choose-photo span,
+    .personal-info-detail form .form-control {
+        font-size: 16px;
+    }
+    label.choose-file {
+        margin: 0 8px 0 15px;
+    }
+    .btn-default {
+        font-size: 16px;
+    }
+    .personal-info-detail form .form-group.media .forgot-btn {
+        font-size: 16px;
+    }
+    .e-wallet-summery-inner table tbody tr td {
+        font-size: 16px;
+    }
+    .e-wallet-summery-sec .title-second h3 {
+        font-size: 18px;
+    }
+    .transaction-history-sec .official-announcement-inner table thead tr th,
+    .transaction-history-sec .official-announcement-inner table tbody tr td {
+        padding: 16px 10px;
+        font-size: 14px;
+    }
+    .media-sort form .form-control {
+        width: 227px;
+        font-size: 16px;
+        height: 45px;
+        margin-left: 8px;
+    }
+    .ewallet-withdrawal-box .btn-default {
+        height: 44px;
+        font-size: 18px;
+    }
+    .ewallet-withdrawal-sec .buy-chips-inner h4 {
+        margin: 0 0 30px 0;
+    }
+    .ewallet-withdrawal-box .image-holder,
+    .ewallet-withdrawal-box .image-holder img {
+        height: 150px;
+    }
+    .ewallet-withdrawal-box .image-holder {
+        margin-bottom: 30px;
+    }
+    .transaction-history-sec .media-sort .title {
+        width: 100%;
+        flex: 0 0 100%;
+        margin-bottom: 10px;
+    }
+    .sort-by {
+        margin-left: auto;
+    }
+    .official-announcement-sec {
+        padding: 30px;
+    }
+    .history-choose P,
+    .history-choose .choose-file {
+        font-size: 16px;
+    }
+    .contarct-history-sec .official-announcement-inner table tbody tr td .btn-default {
+        font-size: 16px;
+    }
+    .contarct-history-sec .official-announcement-inner table tbody tr td .btn-default {
+        max-width: 100px;
+    }
+    .history-choose {
+        margin-bottom: 10px;
+    }
+    .contarct-history-sec .user-contract {
+        margin-top: 10px;
+    }
+    .more-file {
+        font-size: 16px;
+    }
+    .transaction-history-sec .official-announcement-inner table tbody tr td {
+        height: 70px;
+    }
+    .t_Data p {
+        font-size: 14px;
+    }
+    .t_Data h4 {
+        font-size: 18px;
+    }
+    .NewBranch.NewBranch-inner {
+        width: 450px;
+    }
+    .t_Data .image-holder img {
+        height: 88px;
+    }
+    .input-group-append button {
+        font-size: 16px;
+    }
+    .input-group-append button {
+        width: 100px;
+    }
+    .referral-link-box .or span {
+        font-size: 18px;
+    }
+    .whatsapp-btn {
+        font-size: 18px;
+    }
+    .input-group .form-control {
+        font-size: 16px;
+    }
+    .S-Vest-inner h4 {
+        font-size: 18px;
+    }
+    .S-Vest-inner ul li {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .sidebar {
+        max-width: 210px;
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 999;
+        overflow-y: auto;
+        transform: translateX(-100%);
+        transition: all 0.3s;
+    }
+    .dashboard-right {
+        width: calc(100% - 0px);
+        padding: 0;
+    }
+
+    .show-menu .sidebar {
+        transform: translateX(0%);
+    }
+    .left-collapes-btn {
+        display: none;
+    }
+
+    .sidebar-header {
+        padding: 0;
+        min-height: 87px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .menuBar {
+        margin-left: 10px;
+    }
+
+    .menuBar img {
+        height: 32px;
+    }
+    .call-action-payment ul li a img {
+        height: 34px;
+    }
+    .menu-mobile {
+        padding-bottom: 20px;
+    }
+}
+
+@media (max-width: 991px) {
+    .header {
+        flex-direction: column;
+    }
+    .header-left {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .header-right {
+        width: 100%;
+        justify-content: flex-end;
+    }
+    .dashboard-income ul li {
+        width: 33.3%;
+    }
+
+    .official-announcement-sec {
+        padding: 20px;
+    }
+    .dashboard-income ul li {
+        padding: 10px;
+    }
+    .call-action-customer-inner {
+        padding: 20px;
+    }
+    .call-action-customer h4 {
+        font-size: 18px;
+    }
+    .call-customer-box ul li a {
+        margin-left: 4px;
+    }
+    .call-customer-box ul li span img {
+        height: 14px;
+    }
+    .call-customer-box ul li {
+        align-items: flex-start;
+    }
+    .call-customer-box ul li a small {
+        font-size: 11px;
+    }
+    .footer-link .text-box p {
+        margin-bottom: 20px;
+    }
+    .footer-bottom .footer-link {
+        margin-bottom: 20px;
+    }
+
+    .footer-bottom .social-media {
+        margin-bottom: 20px;
+    }
+    .arbitrage-sort {
+        flex-direction: column;
+    }
+    .title h2 {
+        margin-bottom: 10px;
+    }
+    .arbitrage-sort select.form-control {
+        width: 100%;
+        margin-left: 0;
+    }
+    .Business-review-page .official-announcement-sec {
+        padding: 50px 20px;
+    }
+    .title h2 {
+        flex-direction: column;
+        align-items: start;
+    }
+    .title h2 span {
+        margin-top: 10px;
+    }
+     
+    .e-wallet-summery-inner table tbody tr td:last-child{
+        min-width: 160px;
+    }
+
+    .NewBranch.NewBranch-inner {
+        width: 362px;
+    }
+    .personal-info-sec{
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .official-announcement-inner table {
+        width: 800px;
+    }
+
+    .official-announcement-sec.transaction-history-sec .sort-by {
+        order: 3;
+    }
+    .media-sort form {
+        width: 100%;
+        order: 2;
+        margin-bottom: 10px;
+    }
+    .media-sort form .form-control {
+        width: 100%;
+    }
+    .call-action-payment ul {
+        flex-wrap: wrap;
+    }
+    .call-action-payment ul li {
+        padding: 6px 12px;
+    }
+    .call-action-customer h4 {
+        padding: 0 12px;
+    }
+    .call-customer-box ul li {
+        justify-content: center;
+    }
+    footer {
+        padding: 50px 0 20px;
+    }
+    .title {
+        width: 100%;
+    }
+    .media-sort {
+        flex-direction: column;
+    }
+    .algorithmic-form .form-control {
+        width: 100px;
+    }
+    .caa-agreement-box {
+        margin-bottom: 20px;
+    }
+    .caa-agreement-inner .row [class*="col-"]:last-of-type .caa-agreement-box {
+        margin-bottom: 0;
+    }
+    .personal-info-detail form .form-group.media{
+        margin-bottom: 30px;
+    }
+    .NewBranch.NewBranch-inner {
+        width: 255px;
+    }
+}
+
+@media (max-width: 575px) {
+    .dashboard-income ul li {
+        width: 50%;
+        text-align: center;
+    }
+    .header-right {
+        flex-direction: column;
+    }
+    .header-list {
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+    .server-clock p {
+        font-size: 14px;
+        margin-right: 8px;
+    }
+    .countdown,
+    .countdown2 {
+        font-size: 16px;
+        width: 72px;
+    }
+    .dashboard-income ul {
+        justify-content: center;
+    }
+    .sort-by select.form-control {
+        width: 70px;
+    }
+
+    .official-announcement-sec {
+        padding: 15px;
+    }
+    .sort-by p,
+    .sort-by h4,
+    .official-announcement-inner table thead tr th,
+    .official-announcement-inner table tbody tr td {
+        font-size: 14px;
+    }
+    .call-action-customer h4 {
+        padding: 0 12px;
+        max-width: 295px;
+    }
+
+    .header-left {
+        justify-content: center;
+    }
+    .arbitrage-sort form {
+        flex-direction: column;
+    }
+    .arbitrage-sort a {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .arbitrage-inner table {
+        width: 700px;
+    }
+    .arbitrage-sort select.form-control {
+        margin-right: 0;
+    }
+    .chips-form form .form-group {
+        flex-direction: column;
+    }
+    .algorithmic-form .form-control {
+        width: 60px;
+        margin-top: 10px;
+    }
+    .buy-chip-sec {
+        padding: 40px 16px;
+    }
+    .media-sort .title {
+        margin-right: 0;
+    }
+    .dashboard-sec {
+        padding: 20px 0.75rem 50px;
+    }
+    .personal-info-sec{
+        padding: 30px 15px;
+    }
+    .personal-info-detail form .form-group.media{
+        flex-direction: column;
+    }
+    .personal-info-detail form .form-group.media .forgot-btn{
+        margin-top: 10px;
+    }
+    .dashboard-team-commission .nav-pills .nav-item .nav-link {
+        font-size: 14px;
+    }
+    .team-commission-income table tbody tr td {
+        font-size: 14px;
+    }
+    .team-commission-income table tbody tr td span {
+        font-size: 14px;
+        height: 32px;
+        width: 60px;
+        border-radius: 12px;
+    }
+    .team-commission-income table tbody tr td a {
+        height: 30px;
+        width: 55px;
+        font-size: 14px;
+    }
+    .dashboard-user-box .image-holder img {
+        height: 80px;
+    }
+    .dashboard-user-box .text-box p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .dashboard-user-box .text-box h4 {
+        font-size: 18px;
+    }
+    .dashboard-user-tool, .dashboard-user-box {
+        padding: 22px;
+    }
+    .e-wallet-summery-inner table tbody tr td {
+        font-size: 14px;
+        padding: 16px;
+    }
+    .e-wallet-summery-inner table tbody tr td:last-child {
+        min-width: 112px;
+    }
+    .t_Data .image-holder img {
+        height: 50px;
+    }
+    .t_Data h4 {
+        font-size: 14px;
+    }
+    .t_Data p {
+        font-size: 11px;
+        margin: 0 0 4px 0;
+    }
+    .NewBranch.NewBranch-inner {
+        width: 154px;
+    }
+    .genealogy-trees-inner{
+        padding: 20px 15px;
+    }
+    .referral-link-box h4{
+        font-size: 16px;
+    }
+}

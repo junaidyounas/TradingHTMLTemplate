@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.784" height="89.784" viewBox="0 0 89.784 89.784">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_53" data-name="Ellipse 53" cx="44.302" cy="44.302" r="44.302" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_12128" data-name="Group 12128" transform="translate(0.59 0.59)">
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="44.302" cy="44.302" r="44.302" fill="#2c304d" stroke="#f39200" stroke-miterlimit="10" stroke-width="1.18"/>
+    <g id="Group_12127" data-name="Group 12127">
+      <g id="Group_12126" data-name="Group 12126" clip-path="url(#clip-path)">
+        <g id="Group_12125" data-name="Group 12125" transform="translate(22.123 24.39)">
+          <g id="Group_12124" data-name="Group 12124">
+            <path id="Path_23294" data-name="Path 23294" d="M164.067,186.571a15.509,15.509,0,1,1-15.515-15.516A15.491,15.491,0,0,1,164.067,186.571Z" transform="translate(-126.379 -171.055)" fill="none" stroke="#c4a36b" stroke-miterlimit="10" stroke-width="2.701" fill-rule="evenodd"/>
+            <path id="Path_23295" data-name="Path 23295" d="M170.738,211.242v16.623a11.763,11.763,0,0,1-11.721,11.721H138.1a11.763,11.763,0,0,1-11.721-11.721V211.242A11.763,11.763,0,0,1,138.1,199.521h1.931a15.453,15.453,0,0,0,17.055,0h1.931A11.763,11.763,0,0,1,170.738,211.242Z" transform="translate(-126.379 -171.055)" fill="none" stroke="#c4a36b" stroke-miterlimit="10" stroke-width="2.701" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
